@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
@@ -47,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -62,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/3904-smallest-stable-index-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/karthikreddybovilla0-jpg/DSA2/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
